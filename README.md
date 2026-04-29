@@ -1,7 +1,7 @@
 # Hello, I'm [Hasnain Raza] 👋
 ##  I'm Full-Stack Developer(MERN)
 ##  Front-End
-- [HTML5,CSS,JavaScript,SCSS,Bootstrap,React,Ant-Design,React-Native,firebase]
+- [HTML5,CSS,JavaScript,SCSS,Bootstrap,React,Ant-Design,Tailwind CSS,React-Native,firebase]
  ##  Back-End
  - [Node-js,Express-js,MongoDB,firebase]
 - 💞️ I’m looking to collaborate on ...
