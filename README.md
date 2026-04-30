@@ -1,13 +1,27 @@
-# Hello, I'm [Hasnain Raza] 👋
-##  I'm Full-Stack Developer(MERN)
-##  Front-End
-- [HTML5,CSS,JavaScript,SCSS,Bootstrap,React,Ant-Design,Tailwind CSS,React-Native,firebase]
- ##  Back-End
- - [Node-js,Express-js,MongoDB,firebase]
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [hasnainraza3899@gmail.com]
+# Hi there, I'm [Hasnain Raza] 👋
 
-<!---
-Hasnainraza337/Hasnainraza337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ⚡ Full-Stack Developer | MERN Specialist | UI/UX Enthusiast
+
+I am a passionate **MERN Stack Developer** dedicated to building high-performance web applications with a focus on clean code and modern design patterns. I love turning complex problems into elegant, user-friendly solutions.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | React.js, Tailwind CSS, Ant Design, Bootstrap, |
+| **Backend** | Node.js, Express.js, Firebase |
+| **Database** | MongoDB, PostgreSQL, Firebase |
+| **Deployment** | Vercel, Netlify,Firebase|
+| **Version Control** | Git, GitHub |
+
+ 
+
+### 📫 Let's Connect!
+
+- **LinkedIn:** (www.linkedin.com/in/hasnain-raza-511043296)
+- **Email:** hasnainrazadev7@gmail.com
+
+---
+*"Building the future, one commit at a time."*
