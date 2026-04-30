@@ -12,7 +12,7 @@ I am a passionate **MERN Stack Developer** dedicated to building high-performanc
 | :--- | :--- |
 | **Frontend** | React.js, Tailwind CSS, Ant Design, Bootstrap, |
 | **Backend** | Node.js, Express.js, Firebase |
-| **Database** | MongoDB, PostgreSQL, Firebase |
+| **Database** | MongoDB, Firebase  Firestore|
 | **Deployment** | Vercel, Netlify,Firebase|
 | **Version Control** | Git, GitHub |
 
